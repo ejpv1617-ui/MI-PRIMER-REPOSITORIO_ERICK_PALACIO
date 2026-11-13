@@ -1,1 +1,7 @@
 
+id_venta,producto,cantidad,precio
+1,Tablet,3,320
+2,Parlante,6,28
+3,Webcam,4,45
+4,Impresora,2,150
+5,Disco duro,5,60
