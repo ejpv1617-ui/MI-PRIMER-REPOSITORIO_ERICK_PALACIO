@@ -1,1 +1,6 @@
-
+id_cliente,nombre,correo,ciudad
+1,Sofia Mendoza,sofia@gmail.com,Machala
+2,Andres Vera,andres@gmail.com,Samborondon
+3,Valeria Ortiz,valeria@gmail.com,Ambato
+4,Diego Salazar,diego@gmail.com,Loja
+5,Camila Rios,camila@gmail.com,Manta
